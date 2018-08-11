@@ -176,6 +176,10 @@ p.sub_p {
 	}
 }
 
+.panel-title > a{
+	font-size:20px;
+}
+
 @media(max-width:600px) {}
 
 @media(max-width:568px) {}
