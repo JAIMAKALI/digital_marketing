@@ -1364,7 +1364,7 @@ p.paragraph.two {
 .banner{
 	margin:6%;
 	text-align: center;
-	background: url(https://www.digitalmarketingagency.com/wp-content/uploads/2018/03/WebDesign_Img04_1920x873.png) no-repeat 0px 0px;
+	background: url(../images/banner.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
