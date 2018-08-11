@@ -14,9 +14,7 @@ router.get('/courses',(req,res)=>{
   res.render('courses',{courses:'courses'});
 })
 
-router.get('/contact',(req,res)=>{
-  res.render('contact',{contact:'contact'});
-})
+
 
 router.get('/services',(req,res)=>{
   res.render('services',{services:'services'});

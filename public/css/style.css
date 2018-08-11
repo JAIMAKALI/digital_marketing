@@ -1349,6 +1349,38 @@ p.paragraph.two {
 	padding: 7em 0;
 }
 
+.req-free-quote{
+	color: #fff;
+    text-decoration: none;
+    padding: 9px 16px;
+    letter-spacing: 1px;
+    font-size: 14px;
+    background: #00a78e;
+    display: inline-block;
+    border: 2px solid transparent;
+    font-weight: bold;
+}
+
+.banner{
+	margin:6%;
+	text-align: center;
+	background: url(https://www.digitalmarketingagency.com/wp-content/uploads/2018/03/WebDesign_Img04_1920x873.png) no-repeat 0px 0px;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    -moz-background-size: cover;
+    min-height: 300px;
+}
+
+.start-now-btn{
+	font-size: 1em;
+    color: #fff;
+    font-weight: 600;
+    padding: 0.8em 2em;
+    border: 2px solid #fff;
+    background: #00a78e
+}
 .carousel {
 	margin-bottom: 0;
 	padding: 0px;
@@ -2178,7 +2210,7 @@ label.header {
 	.sec_video,
 	.banner_bottom.tesimonials,
 	.banner_bottom {
-		padding: 5em 0;
+		padding: 1em 0;
 	}
 	.search {
 		float: right;
