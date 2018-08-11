@@ -97,4 +97,12 @@ jQuery(document).ready(function($){
 			navigation.insertAfter('.cd-main-content');
 		}
 	}
+
+	$('.dropdown-submenu a.test').on("click", function(e){
+		$(this).next('ul').toggle();
+		$(this).parent().siblings().removeClass('dropdown-submenu');
+		$(this).parent().toggleClass('dropdown-submenu');
+		e.stopPropagation();
+		e.preventDefault();
+	});	
 });

@@ -45,6 +45,7 @@ var adjustMenu = function() {
 		 	// must be attached to li so that mouseleave is not triggered when hover over submenu
 		 	$(this).toggleClass('hover');
 		});
+
 	}
 }
 

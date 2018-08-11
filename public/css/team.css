@@ -15,10 +15,10 @@ body a {
 	font-weight: 600;
 }
 
-.team_grid_info:nth-child(1),
+/* .team_grid_info:nth-child(1),
 .team_grid_info:nth-child(3) {
 	margin-top: 5em;
-}
+} */
 
 .team_grid_info p {
 	color: #acadaf;
